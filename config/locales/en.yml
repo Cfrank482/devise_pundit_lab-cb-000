@@ -21,3 +21,7 @@
 
 en:
   hello: "Hello world"
+  devise:
+    failure:
+      not_found_in_database: "Invalid email or password."
+      invalid: "Invalid email or password."
